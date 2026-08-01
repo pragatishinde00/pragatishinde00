@@ -1,244 +1,107 @@
 <!--
   ============================================================
-  PRAGATI SHINDE — GITHUB PROFILE README
+  PRAGATI SHINDE — ENHANCED GITHUB PROFILE README
   ============================================================
   BEFORE YOU PUSH THIS:
   1. Replace every instance of "PragatiShinde" with your real GitHub username
-     (search-and-replace — it appears in ~15 image/widget URLs below).
   2. Replace the placeholders marked <<...>> — LinkedIn, email, portfolio,
-     LeetCode, Instagram, resume link, Spotify (or delete that section).
-  3. Put this file at the root of your username/username repo as README.md.
-  4. Put github-snake.yml (the second file) at .github/workflows/github-snake.yml
-     in the SAME repo, then go to Actions tab → enable workflows → run it once.
+     LeetCode, Instagram, resume link, Spotify
+  3. Put this file at the root of your username/username repo as README.md
+  4. Put github-snake.yml at .github/workflows/github-snake.yml
+     in the SAME repo, then go to Actions tab → enable workflows → run it once
   ============================================================
 -->
 
 <div align="center">
 
-<!-- Animated typing header -->
+<!-- Animated Matrix Rain Background Effect -->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="0" height="0" />
+
+<!-- Glitch Effect Header -->
 <a href="https://github.com/PragatiShinde">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Pragati+Shinde;AI+%26+Data+Science+Engineer;Full+Stack+Developer;Building+things+that+learn+%F0%9F%A7%A0;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&height=100&lines=Hi+there%2C+I'm+Pragati+Shinde+%F0%9F%91%8B;AI+%26+Data+Science+Engineer+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Building+intelligent+solutions+%F0%9F%A7%A0;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
+<!-- Animated Wave Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20My%20Digital%20Universe&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Problem%20Solver&descSize=18&descAlignY=55" width="100%"/>
+
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20universe&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<!-- Animated Badge Row with Pulse Effect -->
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Engineer-in%20training-A78BFA?style=for-the-badge&logo=openai&logoColor=white&labelColor=2D3748"/>
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-38BDF8?style=for-the-badge&logo=react&logoColor=white&labelColor=2D3748"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22C55E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=2D3748"/>
+  <img src="https://img.shields.io/badge/Location-India-F59E0B?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=2D3748"/>
+</p>
 
 <br/>
 
-<!-- Badge row -->
-<img src="https://img.shields.io/badge/AI%20Engineer-in%20training-A78BFA?style=for-the-badge&logo=OpenAI&logoColor=white"/>
-<img src="https://img.shields.io/badge/Full%20Stack-Developer-38BDF8?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-22C55E?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Location-India-F59E0B?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<!-- Animated Counter + Social Links -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PragatiShinde&label=Profile%20Views&color=a78bfa&style=for-the-badge&abbreviated=true" alt="profile views" />
+  &nbsp;&nbsp;
+  <a href="https://github.com/PragatiShinde?tab=followers">
+    <img src="https://img.shields.io/github/followers/PragatiShinde?label=Followers&style=for-the-badge&color=38bdf8&logo=github"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/PragatiShinde?tab=repositories">
+    <img src="https://img.shields.io/github/stars/PragatiShinde?label=Stars&style=for-the-badge&color=f59e0b&logo=github"/>
+  </a>
+</p>
 
-<br/><br/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/<<your-linkedin-handle>>" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
+  </a>
+  <a href="mailto:<<your-email>>" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
+  </a>
+  <a href="<<your-portfolio-url>>" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000"/>
+  </a>
+  <a href="https://leetcode.com/<<your-leetcode-handle>>" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116"/>
+  </a>
+</p>
 
-<!-- Profile views + connect strip -->
-<img src="https://komarev.com/ghpvc/?username=PragatiShinde&label=Profile%20Views&color=a78bfa&style=for-the-badge" alt="profile views" />
-&nbsp;
-<a href="https://www.linkedin.com/in/<<your-linkedin-handle>>"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:<<your-email>>"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="<<your-portfolio-url>>"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://leetcode.com/<<your-leetcode-handle>>"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
-<br/>
+<!-- About Me Section with Animated Cards -->
+<h2>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  About Me
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
 
-## 👩‍💻 About Me
+<table align="center">
+<tr>
+<td width="50%">
 
 ```yaml
-pragati:
-  role: "AI & Data Science Engineering Student"
-  goal: "AI Engineer + Full Stack Developer @ Google / Microsoft / Amazon / NVIDIA / Adobe"
-  currently_building: "AI-powered products that solve real problems"
-  passions: [Machine Learning, Deep Learning, NLP, Generative AI, Full Stack Dev]
-  hackathons: "always down for one 🏆"
-  fun_fact: "I debug faster than I explain what the bug was 😅"
-```
+╔══════════════════════════════════╗
+║     PRAGATI SHINDE - AI ENGINEER ║
+╚══════════════════════════════════╝
 
-- 🔭 I'm currently building end-to-end AI products — from model to deployed UI
-- 🌱 Deepening my skills in **Generative AI, LLMs, and system design**
-- 🤝 Open to collaborating on **AI/ML** and **full-stack** open-source projects
-- ⚡ I learn best by shipping — every project below was built to solve something real
-- 💬 Ask me about **CNNs, REST APIs, React, or hackathon war stories**
+🎓 Education:
+   └─ B.Tech in AI & Data Science
 
-<br/>
+💼 Current Focus:
+   └─ Building AI-powered products
 
-## 🛠️ Tech Stack
+🎯 Goal:
+   └─ AI Engineer @ FAANG
 
-<div align="center">
+🚀 Passions:
+   ├─ 🤖 Machine Learning
+   ├─ 🧠 Deep Learning
+   ├─ 💬 NLP & LLMs
+   ├─ 🎨 Generative AI
+   └─ 🌐 Full Stack Development
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,java,js,cpp,html,css" />
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
-
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=flask,nodejs,express" />
-
-**Database**
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase" />
-
-**AI / ML**
-<br/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-
-**Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker" />
-
-</div>
-
-<br/>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PragatiShinde&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PragatiShinde&theme=tokyonight&hide_border=true" width="49%"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PragatiShinde&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=PragatiShinde&theme=tokyonight&no-frame=true&column=3&margin-w=8&margin-h=8" width="49%"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PragatiShinde&theme=tokyo-night&hide_border=true&area=true" width="98%"/>
-</div>
-
-<!-- Snake animation — generated daily by github-snake.yml, published to the "output" branch -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/PragatiShinde/PragatiShinde/output/github-contribution-grid-snake-dark.svg" width="98%"/>
-</div>
-
-<br/>
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🏗️ NexBuild
-**AI-powered Construction Co-Pilot**
-
-Assists construction teams with AI-driven planning, estimation, and decision support.
-
-<!-- Replace with your repo/live links -->
-[`Repo`](https://github.com/PragatiShinde/nexbuild) · [`Live Demo`](<<demo-link>>)
-
-</td>
-<td width="33%" valign="top">
-
-### 🩺 AI Skin Disease Detection
-**CNN-based skin disease prediction**
-
-Deep learning model classifying skin conditions from images to support early diagnosis.
-
-[`Repo`](https://github.com/PragatiShinde/ai-skin-disease-detection) · [`Live Demo`](<<demo-link>>)
-
-</td>
-<td width="33%" valign="top">
-
-### 🌾 Krishi Sampanna
-**AI-powered Agriculture Platform**
-
-Helps farmers make data-driven decisions on crop health, yield, and resource planning.
-
-[`Repo`](https://github.com/PragatiShinde/krishi-sampanna) · [`Live Demo`](<<demo-link>>)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 🎓 Certifications
-
-<details>
-<summary><b>Click to expand</b></summary>
-<br/>
-
-<!-- Add your real certifications — title, issuer, and a link/badge for each -->
-- 🏅 **<<Certification Name>>** — *<<Issuer, e.g. Coursera / Google / AWS>>*
-- 🏅 **<<Certification Name>>** — *<<Issuer>>*
-- 🏅 **<<Certification Name>>** — *<<Issuer>>*
-
-</details>
-
-<br/>
-
-## 🏆 Hackathons
-
-<details>
-<summary><b>Click to expand</b></summary>
-<br/>
-
-<!-- List hackathons with outcome — recruiters scan this section closely -->
-| Event | Project | Result |
-|---|---|---|
-| <<Hackathon Name>> | <<What you built>> | 🥈 <<e.g. Runner-up>> |
-| <<Hackathon Name>> | <<What you built>> | 🎯 <<e.g. Finalist>> |
-
-</details>
-
-<br/>
-
-## 📚 Currently Learning
-
-<div align="center">
-<img src="https://img.shields.io/badge/LLM%20Engineering-in%20progress-A78BFA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/System%20Design-in%20progress-38BDF8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DSA-daily%20practice-F59E0B?style=for-the-badge"/>
-</div>
-
-<br/>
-
-## 🎧 Now Playing
-
-<!-- Optional: get your own widget at https://spotify-github-profile.vercel.app/ then paste the img tag it gives you here -->
-<div align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=<<your-spotify-uid>>&redirect=true&cover_image=true&theme=default&show_offline=true&background_color=121212&interchangeable=1" width="350"/>
-</div>
-
-<br/>
-
-## 💭 Quote of the Visit
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
-<br/>
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/<<your-linkedin-handle>>"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:<<your-email>>"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="<<your-portfolio-url>>"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://instagram.com/<<your-handle>>"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="<<your-resume-link>>"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white"/></a>
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-
-<i>Thanks for stopping by — let's build something intelligent together.</i>
-
-</div>
+⚡ Fun Fact:
+   └─ I debug faster than I explain
+      what the bug was 😅
