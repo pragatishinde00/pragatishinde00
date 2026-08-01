@@ -14,20 +14,14 @@
 
 <div align="center">
 
-<!-- Animated Matrix Rain Background Effect -->
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="0" height="0" />
-
-<!-- Glitch Effect Header -->
 <a href="https://github.com/PragatiShinde">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&height=100&lines=Hi+there%2C+I'm+Pragati+Shinde+%F0%9F%91%8B;AI+%26+Data+Science+Engineer+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Building+intelligent+solutions+%F0%9F%A7%A0;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<!-- Animated Wave Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20My%20Digital%20Universe&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Problem%20Solver&descSize=18&descAlignY=55" width="100%"/>
 
 <br/>
 
-<!-- Animated Badge Row with Pulse Effect -->
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Engineer-in%20training-A78BFA?style=for-the-badge&logo=openai&logoColor=white&labelColor=2D3748"/>
   <img src="https://img.shields.io/badge/Full%20Stack-Developer-38BDF8?style=for-the-badge&logo=react&logoColor=white&labelColor=2D3748"/>
@@ -37,7 +31,6 @@
 
 <br/>
 
-<!-- Animated Counter + Social Links -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PragatiShinde&label=Profile%20Views&color=a78bfa&style=for-the-badge&abbreviated=true" alt="profile views" />
   &nbsp;&nbsp;
@@ -65,12 +58,10 @@
   </a>
 </p>
 
-<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
-<!-- About Me Section with Animated Cards -->
 <h2>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   About Me
